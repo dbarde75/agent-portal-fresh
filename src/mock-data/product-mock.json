@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "image": "",
+        "name": "Canon EOS Rebel T7 DSLR Camera",
+        "brand": "Canon",
+        "offer": "Save 20%",
+        "isStock": true,
+        "description": "Capture sharp, detailed images and high-definition videos with the Canon EOS Rebel T7 DSLR Camera. It features a 24.1 Megapixel CMOS sensor, DIGIC 4+ image processor, and Full HD 1080p video recording capabilities.",
+        "offerPrice": 499.99,
+        "salePrice": 399.99,
+        "rating": 4.5,
+        "color": "Black",
+        "open": false
+    },
+    {
+        "id": "2",
+        "image": "",
+        "name": "Samsung Galaxy S20 Ultra",
+        "brand": "Samsung",
+        "offer": "Limited Time Offer",
+        "isStock": true,
+        "description": "Experience the power of 5G connectivity and professional-grade camera capabilities with the Samsung Galaxy S20 Ultra. Its 108MP quad camera system allows you to capture stunning photos and 8K videos, while its 6.9-inch Dynamic AMOLED display delivers immersive visuals.",
+        "offerPrice": 1399.99,
+        "salePrice": 1199.99,
+        "rating": 4.8,
+        "color": "Cosmic Gray",
+        "open": true
+    },
+    {
+        "id": "3",
+        "image": "",
+        "name": "Apple MacBook Pro (2020)",
+        "brand": "Apple",
+        "offer": "Back to School Deal",
+        "isStock": true,
+        "description": "Enhance your productivity and creativity with the Apple MacBook Pro. Featuring a stunning Retina display, powerful Intel processors, and all-day battery life, it's perfect for students, professionals, and creatives alike.",
+        "offerPrice": 1799.99,
+        "salePrice": 1699.99,
+        "rating": 4.7,
+        "color": "Space Gray",
+        "open": false
+    }
+]
